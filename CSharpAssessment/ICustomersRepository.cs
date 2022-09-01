@@ -4,6 +4,6 @@ namespace CSharpAssessment
 {
     public interface ICustomersRepository
     {
-        IList<Customer> FindCustomers();
+        IList<Customer> FindAll();
     }
 }

@@ -4,7 +4,7 @@ namespace CSharpAssessment
 {
     public interface IEventsRepository
     {
-        IList<Event> FindEvents();
+        IList<Event> FindAll();
         IList<Event> FindEventsByCity(string city);
     }
 }

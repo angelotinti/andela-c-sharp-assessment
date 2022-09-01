@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CSharpAssessment
+﻿namespace CSharpAssessment
 {
-    internal interface ICitiesService
+    public interface ICitiesService
     {
         int GetDistance(string fromCity, string toCity);
+        int GetClosestCities(string city, int limit);
     }
 }
