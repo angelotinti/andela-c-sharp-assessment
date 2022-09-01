@@ -2,6 +2,9 @@
 {
     internal interface IEmailsCampaignService
     {
-        void SendCampaignEmails();
+        void SendCampaignEmailsA();
+        void SendCampaignEmailsB();
+        void SendCampaignNearCitiesA();
+        void SendCampaignNearCitiesB();
     }
 }
