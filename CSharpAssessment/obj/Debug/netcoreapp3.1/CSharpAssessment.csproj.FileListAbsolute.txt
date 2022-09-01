@@ -1,0 +1,10 @@
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\bin\Debug\netcoreapp3.1\CSharpAssessment.deps.json
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\bin\Debug\netcoreapp3.1\CSharpAssessment.dll
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\bin\Debug\netcoreapp3.1\CSharpAssessment.pdb
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.csproj.AssemblyReference.cache
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.AssemblyInfoInputs.cache
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.AssemblyInfo.cs
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.csproj.CoreCompileInputs.cache
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.dll
+C:\projects\Andela\andela-c-sharp-assessment\CSharpAssessment\obj\Debug\netcoreapp3.1\CSharpAssessment.pdb
